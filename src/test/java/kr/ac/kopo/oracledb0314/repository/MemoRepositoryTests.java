@@ -38,5 +38,4 @@ public class MemoRepositoryTests {
             System.out.println(memo);
         }
     }
-
 }
